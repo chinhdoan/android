@@ -82,12 +82,11 @@ m
         android:layout_alignParentRight="true"
         android:layout_marginTop="10dp"
         android:layout_margin="@dimen/edit_margin_top"
-
-
-
+        android:layout_alignParentBottom="true"
         android:layout_marginBottom="@dimen/edit_margin_bottom"
         android:background="@drawable/question"
-        android:layout_width="8pt"
-        android:layout_height="8pt" />
+        android:layout_width="5pt"
+        android:layout_height="5pt" />
+
 
 </RelativeLayout>
